@@ -1,0 +1,6 @@
+[
+  {
+    "name": "nginx-simple-calculator",
+    "imageUri": "325809079703.dkr.ecr.us-east-1.amazonaws.com/ecscluster@sha256:33fe71cca7898bbe6e055d4f336cda923b019b4a135f4324640e7f6fe204b9b1"
+  }
+]
