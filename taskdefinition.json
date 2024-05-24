@@ -1,7 +1,7 @@
 {
     "containerDefinitions": [{
             "name": "nginx-simple-calculator",
-            "image": "325809079703.dkr.ecr.us-east-1.amazonaws.com/ecscluster:90e19f3",
+            "image": "325809079703.dkr.ecr.us-east-1.amazonaws.com/ecscluster:latest",
             "portMappings": [{
                 "name": "simplecalculator",
                 "containerPort": 3000,
